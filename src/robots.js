@@ -53,5 +53,11 @@ export const robots = [
     username: 'bjbn',
     email: 'cucumberlover@gmail.com'
   },
+  {
+    id: 10,
+    name: 'Benny of Francisca',
+    username: 'bjbn',
+    email: 'shortmanbenny@gmail.com'
+  },
 ];
 export default robots
