@@ -48,3 +48,4 @@ export const robots = [
     email: 'BabaSeun@gmail.com'
   },
 ];
+export default robots
